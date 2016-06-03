@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LightSamp</string>
+    <string name="text_light01">光センサーの値</string>
+    <string name="text_light02">照度</string>
+    <string name="text_speed01">加速度センサーの値</string>
+    <string name="text_speedx">X軸</string>
+    <string name="text_speedy">Y軸</string>
+    <string name="text_speedz">Z軸</string>
+
+</resources>
